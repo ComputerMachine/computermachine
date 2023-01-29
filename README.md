@@ -11,9 +11,9 @@
 
 - 🤝 I’m looking for help with [name-that-episode](https://github.com/ComputerMachine/name-that-episode)
 
-- 👨‍💻 All of my projects are available at [https://github.com/ComputerMachine](https://github.com/ComputerMachine)
+- 👨‍💻 Most of my projects are available at [https://github.com/ComputerMachine](https://github.com/ComputerMachine)
 
-- 💬 Ask me about **asian chicks**
+- 💬 Ask me about **star trek**
 
 - 📫 How to reach me **tazg@tazg.ca**
 
